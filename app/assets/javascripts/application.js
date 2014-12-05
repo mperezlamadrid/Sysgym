@@ -12,5 +12,9 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require jquery_nested_form
+//= require angular
+//= require bootstrap
+//= require bootstrap-select
 //= require turbolinks
 //= require_tree .
